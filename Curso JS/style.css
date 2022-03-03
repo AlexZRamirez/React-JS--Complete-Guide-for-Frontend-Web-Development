@@ -1,0 +1,121 @@
+#btn-click{
+    width: 150px; 
+    height: 50px; 
+    font-size: 20px; 
+}
+
+#barpg{
+    width: 500px; 
+    height: 100px;
+}
+
+#bg-image{
+    width: 250px; 
+    height: 250px;
+}
+
+/**SECCION DE CLASE 124 (AGREGAR O BORRAR CLASES)*/
+#box124{
+    width: 500px;
+    height: 225px;
+    border: 0.03cm;
+    border-style: solid;
+    background-color: white;
+}
+
+#btn-click2,#btn-click3{
+    font-size:  24px;
+    margin-top: 24px;
+    margin-left: 35px;
+}
+#main-head{
+    /*position: absolute;
+    top: 95%;*/
+    position: relative;
+    left: 5%;
+    /*transform: translate(-50%,-50%);*/
+}
+.small{
+    font-size: 24px;
+}
+.big{
+    font-size: 38px;
+}
+
+/*CLASE 125*/
+#box125{
+    width: 500px;
+    height: 225px;
+    border: 0.03cm;
+    border-style: solid;
+    background-color: white;
+}
+#btn-mayor,#btn-menor{
+    font-size:  24px;
+    margin-top: 24px;
+    margin-left: 35px;
+}
+
+#text-test{
+    font-size: 12px;
+}
+
+/*CLASE 126 EVENTOS DE FORM*/
+#box126{
+    width: 500px;
+    height: 225px;
+    border: 0.03cm;
+    border-style: solid;
+    background-color: white;
+}
+#form-test,#UsuarioTest,#PassTest,#btn-submit{
+    margin-top: 15px;
+    display: block;
+}
+
+/*CLASE 128 EVENTOS DE MOUSE*/
+#box128{
+    width: 500px;
+    height: 225px;
+    border: 0.03cm;
+    border-style: solid;
+    background-color: white;
+}
+
+#over{
+    margin-left: 40px;
+    width: 100px;
+    height: 100px;
+    border: 0.03cm;  
+    border-style: solid;
+    background-color: white;
+    float: left;
+}
+
+#center{
+    margin-left: 50px;
+    width: 100px;
+    height: 100px;
+    border: 0.03cm;  
+    border-style: solid;
+    background-color: white;
+    float: left;
+}
+
+#move{
+    margin-left: 50px;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border: 0.03cm;
+    border-style: solid;
+    background-color: white;
+}
+
+p{
+    text-align: center;
+}
+
+#btn-c128{
+    font-size: 20px;
+}
